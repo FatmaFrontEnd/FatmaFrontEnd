@@ -1,34 +1,49 @@
-![Hey there, I'm Fatma. I'm a front-end developer and web maker. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+<div align="center" width="50">
 
-[![GitHub followers](https://img.shields.io/github/followers/FATMA_USERNAME?logo=GitHub&style=for-the-badge)](https://github.com/FATMA_USERNAME) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/FATMA_USERNAME?logo=github&style=for-the-badge)](https://github.com/FATMA_USERNAME)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-# 👋 &nbsp;Hi there
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-I'm a Front-End developer based in Egypt. I enjoy coding responsive web interfaces, creating sleek web designs, and building open-source projects that solve unique problems. You can check out my latest work and projects here on GitHub.
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
-&nbsp;
+</details>
 
-## 👇 &nbsp;Current project
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-I'm currently working on building my personal portfolio and amazing web applications using modern Front-End technologies to showcase my skills and start my freelance journey on platforms like Upwork.
+<br>
 
-&nbsp;
+<!-- روابط التواصل الاجتماعي -->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/USERNAME)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/USERNAME)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201097454965)
 
-## 🧰 &nbsp;My toolbox
+</div>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git-scm/git-scm-original.svg" alt="Git" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="Github" width="50" height="50"/>
+<hr></hr>
 
-&nbsp;
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Frontend%20Tech%20Stack-orange)
 
-## 📊 &nbsp;Stats
+<!-- أدوات وتقنيات الفرنت اند -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-![Fatma's Github Stats](https://github-readme-stats.vercel.app/api?username=FATMA_USERNAME&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FATMA_USERNAME&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-&nbsp;
-
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-You can reach me via email or check out my repositories and social links!
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="LinkedIn" title="LinkedIn"/>](https://linkedin.com)
+```javascript
+// Frontend Developer Profile
+class FrontendDeveloper {
+  constructor() {
+    this.name = "Developer";
+    this.role = "Frontend Developer";
+    this.skills = ["HTML5", "CSS3", "JavaScript", "React", "GSAP"];
+    this.passion = "Building amazing UI/UX experiences";
+  }
+}
